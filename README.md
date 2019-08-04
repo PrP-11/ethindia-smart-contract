@@ -1,4 +1,4 @@
-# ethindia-smart-contract
+# Blyptor-smart-contract
 
 pragma solidity ^0.4.17;
 
